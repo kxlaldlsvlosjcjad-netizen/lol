@@ -29,7 +29,7 @@ API_ID = 22152659
 API_HASH = "7300603715676773c05db7fd7aab55fc"
 
 # Phone Number for user account
-PHONE_NUMBER = "+989182158597"
+PHONE_NUMBER = "+989023998047"
 
 SESSION_NAME = "user_sadra"
 
