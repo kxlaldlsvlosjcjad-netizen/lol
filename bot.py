@@ -49,7 +49,7 @@ FWD_EXTRA_POSITION_FILE = os.path.join(BOT_DIR, "fwd_extra_position.txt")
 HELP_IMAGE_URL = "https://raw.githubusercontent.com/sadraonthehack/VDIEO/main/8d4db30dac973ecc09668b36ba19f11e.gif"
 
 # External 'via' bot username (set from user)
-VIA_BOT_USERNAME = "Ggghdfa_bot"
+VIA_BOT_USERNAME = "@Attckehelper_bot"
 
 ADMIN_IDS: Set[int] = {7202211827}  
 FOSHLIST: List[str] = []
