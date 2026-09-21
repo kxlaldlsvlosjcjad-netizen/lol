@@ -26,11 +26,11 @@ API_HASH = "7300603715676773c05db7fd7aab55fc"
 
 # Bot Tokens
 BOT_TOKENS = [
-    "8773634558:AAH_GrEJXyJJty6BkpLMIm-b7dmyjzj8E9g",
-    "8611552423:AAFfuHfIAzMlUM832ETEH-SGHqGnrMF3eY0", 
-    "8842843723:AAGwPS-7CGbGLSv7cyCCV7_PrGMb9D0B0g8",
-    "8914507807:AAGDTXisF9Jlma0WdV6QeJ6fQK25SWNqu3g",
-    "8983698062:AAGCDXqHn_J3JKYvDCsnTqgpI_JO1WYOmPA",
+    "8774218095:AAHE5UNCY9hSnJe1Pxv0EkWeJk0twpXCAq8",
+    "8508888819:AAEoa7BOhcNNwenILid8IHVN0kCYqNtSSEs", 
+    "8347453245:AAFfpyrov2l8ySZJAs3F0YlFHjr9wM_6fiI",
+    "8522432970:AAFy6MfoCYUnDUHFFk5z9pS55IrJEyFNQsE",
+    "7463506644:AAF5LzaFKjqHPS1wC1GVIgO9pgsSrX4e8T0",
 ]
 
 MASTER_BOT_INDEX = 0
@@ -47,7 +47,7 @@ FWD_EXTRA_TEXT_FILE = os.path.join(BOT_DIR, "fwd_extra_text.txt")
 FWD_EXTRA_POSITION_FILE = os.path.join(BOT_DIR, "fwd_extra_position.txt")
 HELP_IMAGE_URL = "https://raw.githubusercontent.com/sadraonthehack/VDIEO/main/8d4db30dac973ecc09668b36ba19f11e.gif"
 
-ADMIN_IDS: Set[int] = {7526559869}  
+ADMIN_IDS: Set[int] = {7202211827}  
 FOSHLIST: List[str] = []
 SPAM_TARGET: Optional[int] = None
 SPAM_TEXT: str = "ONLINE"
@@ -1470,7 +1470,7 @@ _SELF_EXECUTING = False
 # unless you want their replies re-processed.
 SELF_COMMAND_WHITELIST = {
     "spam", "spamoff",
-    "on", "off","help", "help2",
+    "on", "off",
     "start", "stop",
     "fspam_on", "fspam_off",
     "ping", "bot",
